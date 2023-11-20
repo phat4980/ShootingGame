@@ -9,7 +9,7 @@ Prepare your guns and shoot at targets to get points.
 - Move: Y, H, J, K
 - View Controller: ↑, ←, ↓, →
 - Hand controller: W, A, S, D
-- Hand control: 
+- Finger controller : 
   + Palm: U
   + Pinch: T
 - lean over:
